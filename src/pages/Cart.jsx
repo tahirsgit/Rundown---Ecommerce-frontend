@@ -73,7 +73,7 @@ export default function Cart() {
       </div>
 
       <button
-        onClick={() => alert('Checkout will connect to the real backend in Week 11.')}
+        onClick={() => alert('Checkout backend is pending ')}
         className="mt-4 w-full rounded-md bg-graphite py-3 text-sm font-medium text-paper transition hover:bg-graphite/85"
       >
         Checkout
